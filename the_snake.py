@@ -16,7 +16,7 @@ RIGHT = (1, 0)
 # Цвета:
 BOARD_BACKGROUND_COLOR = (0, 0, 0)
 BORDER_COLOR = (93, 216, 228)
-APPLE_COLOR = (0, 50, 0)
+APPLE_COLOR = (100, 50, 0)
 SNAKE_COLOR = (0, 255, 0)
 
 # Скорость игры:
